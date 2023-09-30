@@ -10,7 +10,7 @@ These files are encrypted before sending to the device.
 Version 2 (Snow2 / recon):  
 Uses OSM tiles
 
-(1) Valid POI for version 1 maps are, have to be stored in field GRMN_TYPE:  
+(1) Valid trail and POI for version 1 maps are, have to be stored in field GRMN_TYPE:  
 
 "GREEN_TRAIL"  
 "GREEN_TRUNK"  
