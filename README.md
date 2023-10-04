@@ -1,4 +1,7 @@
 # recon_maps
+More info in Wiki:  
+[https://github.com/recom3/recon_maps/wiki](https://github.com/recom3/recon_maps/wiki)  
+
 To hold stuff relative to production of maps for recon devices
 Basically there are two versions:  
 Version 1 (Transcend):  
